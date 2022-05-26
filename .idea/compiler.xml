@@ -9,6 +9,7 @@
         <module name="04HomeWork" />
         <module name="Practice" />
         <module name="01TraditionalMethod" />
+        <module name="05CustomGenerics" />
         <module name="02GettingStartedWithGenerics" />
       </profile>
     </annotationProcessing>

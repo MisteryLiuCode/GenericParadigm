@@ -14,6 +14,7 @@
         <module>03Practice</module>
         <module>04HomeWork</module>
         <module>04HomeWork</module>
+        <module>05CustomGenerics</module>
     </modules>
 
     <properties>
