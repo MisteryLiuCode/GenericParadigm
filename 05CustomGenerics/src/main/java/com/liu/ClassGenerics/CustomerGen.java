@@ -1,4 +1,4 @@
-package com.liu;
+package com.liu.ClassGenerics;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

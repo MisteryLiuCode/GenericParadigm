@@ -1,4 +1,4 @@
-package com.liu;
+package com.liu.ClassGenerics;
 
 public class MyTest {
     public static void main(String[] args) {
